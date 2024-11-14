@@ -18,6 +18,8 @@ Una aplicación web moderna para calcular el contenido de cobre en cables eléct
 
 ## Instalación
 
+Se necesita tener instalado git antes de ejecutar esta calculadora : https://git-scm.com/downloads
+
 ```bash
 # Clona el repositorio
 git clone https://github.com/Mrireal/nombre-proyecto
