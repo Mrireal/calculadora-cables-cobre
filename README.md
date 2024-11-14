@@ -18,7 +18,7 @@ Una aplicación web moderna para calcular el contenido de cobre en cables eléct
 
 ## Instalación
 
-Se necesita tener instalado git y node.js antes de ejecutar esta calculadora : https://git-scm.com/downloads
+Se necesita tener instalado git y node.js antes de ejecutar esta calculadora : https://git-scm.com/downloads,
                                                                                https://nodejs.org/en/
 
 
