@@ -24,7 +24,7 @@ Se necesita tener instalado git y node.js antes de ejecutar esta calculadora : h
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/AlanSilvaaa/calculadora-cables-cobre
+git clone https://github.com/Mrireal/calculadora-cables-cobre
 
 # Ingresa al directorio
 cd calculadora-cables-cobre
